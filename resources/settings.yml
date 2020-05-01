@@ -1,0 +1,12 @@
+#When this is enabled, all players joining through the gophertunnel proxy will be automatically denied.
+#This comes at a cost of also rejecting all Nintendo Switch users, aka a sacrifice.
+force-antigopher: false
+
+#PMMP 3.0 servers can easily be crashed with a lot of big sized written books in a single chunk, due to the limitations...
+#...of 3.0's world format. Under some circumstances, this exploit can lead to dupes. Enabling this will control books...
+#...to make sure they don't crash the server nor abuse any dupe exploit.
+anti-book: false
+
+#Due to the fact that plugins are disabled before players get kicked, plugins using InvMenu can have dupes upon server...
+#...restarts. If this is enabled, shoghi will make sure that your invmenu plugins are exploit-free.
+anti-invmenu-dupe: false

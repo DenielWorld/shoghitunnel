@@ -1,0 +1,6 @@
+name: shoghitunnel
+author: DenielWorld
+main: DenielWorld\shoghitunnel\Loader
+api: 3.0.0
+version: 0.0.1
+description: "Attempt to prevent exploits on PMMP 3.0 servers caused by MITM tools, such as gophertunnel - https://github.com/Sandertv/gophertunnel"

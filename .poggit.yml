@@ -1,0 +1,8 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/DenielWorld/shoghitunnel
+branches:
+  - master
+projects:
+  DeviceBlocker:
+    path: ""
+    icon: shoghi.png
+...
