@@ -2,7 +2,7 @@
 branches:
   - master
 projects:
-  DeviceBlocker:
+  shoghitunnel:
     path: ""
     icon: shoghi.png
 ...
