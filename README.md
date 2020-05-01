@@ -11,3 +11,8 @@
  may, or may have not already been approved.
  
  https://poggit.pmmp.io/p/DeviceBlocker
+ ## Credits
+ Special thanks to 'T 14Raptor#3940' (Discord) for BIG help
+ with antigopher.
+ Special thanks to 'Sandertv#6400' (Discord) for an antigopher
+ reference and info on book bytes.
