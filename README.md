@@ -10,7 +10,7 @@
  All releases can be found on poggit. By now, shoghitunnel
  may, or may have not already been approved.
  
- https://poggit.pmmp.io/p/DeviceBlocker
+ https://poggit.pmmp.io/ci/DenielWorld/shoghitunnel/shoghitunnel
  ## Credits
  Special thanks to 'T 14Raptor#3940' (Discord) for BIG help
  with antigopher.
